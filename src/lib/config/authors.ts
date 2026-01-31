@@ -1,10 +1,10 @@
 export const authors = {
-    "yusuf-cengiz": {
-        name: "Yusuf Cengiz",
-        bio: "Frontend Developer & UI/UX Enthusiast",
-        avatar: "https://github.com/YusufCeng1z.png",
-        twitter: "https://github.com/YusufCeng1z",
-        github: "https://github.com/YusufCeng1z",
+    "better-sleep": {
+        name: "Better Sleep",
+        bio: "Better Life",
+        avatar: "https://github.com/BetterSleep.png",
+        twitter: "https://github.com/bettermedicineai",
+        github: "https://github.com/bettermedicineai",
     },
 };
 

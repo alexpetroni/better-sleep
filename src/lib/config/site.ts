@@ -1,14 +1,14 @@
 export const siteConfig = {
-    name: "Sveltekit shadcn blog starter",
-    url: "https://sveltekit-blog-starter.netlify.app",
-    ogImage: "https://sveltekit-blog-starter.netlify.app/images/blog-starter.jpg",
+    name: "BetterSleep - resursa de articole care te ajuta sa dormi",
+    url: "https://betterSleep.ro",
+    ogImage: "https://betterSleep.ro/images/blog-starter.jpg",
     description:
-        "A blog starter built with SvelteKit, shadcn-svelte, Tailwind CSS, and MDsveX.",
+        "Un blog care te ajuta sa te ia somnul.",
     links: {
-        twitter: "https://github.com/YusufCeng1z",
-        github: "https://github.com/YusufCeng1z/sveltekit-shadcn-blog-starter",
+        twitter: "https://github.com/bettermedicineai/betterSleep",
+        github: "https://github.com/bettermedicineai/betterSleep",
     },
-    keywords: `Svelte, SvelteKit, Tailwind CSS, Shadcn, MDsveX, Blog Starter`,
+    keywords: `Insomnii, ce sa fac sa adorm, somn intrerupt`,
     nav: [
         {
             title: "Home",
