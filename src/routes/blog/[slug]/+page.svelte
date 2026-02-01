@@ -43,7 +43,7 @@
                 class="h-10 w-10 rounded-full bg-muted"
             />
             <div>
-                <p class="font-medium">{author.name}</p>
+                <p class="font-medium">Scris de {author.name}</p>
                 <p class="text-xs text-muted-foreground">@{data.meta.author}</p>
             </div>
         </a>
