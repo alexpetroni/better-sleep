@@ -1,5 +1,6 @@
 export const siteConfig = {
     name: "BetterSleep - resursa de articole care te ajuta sa dormi",
+    companyName: "BetterSleep",
     url: "https://betterSleep.ro",
     ogImage: "https://betterSleep.ro/images/blog-starter.jpg",
     description:
@@ -11,7 +12,7 @@ export const siteConfig = {
     keywords: `Insomnii, ce sa fac sa adorm, somn intrerupt`,
     nav: [
         {
-            title: "Home",
+            title: "Prima pagina",
             href: "/",
         },
         {
@@ -19,8 +20,8 @@ export const siteConfig = {
             href: "/blog",
         },
         {
-            title: "About",
-            href: "/about",
+            title: "Despre noi",
+            href: "/despre-noi",
         },
         {
             title: "Contact",

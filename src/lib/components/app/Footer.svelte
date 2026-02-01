@@ -16,9 +16,10 @@
                 rel="noreferrer"
                 class="font-medium underline underline-offset-4"
             >
-                Yusuf Cengiz
+                {siteConfig.companyName}
             </a>
-            . The source code is available on{" "}
+            . 
+            <!-- The source code is available on{" "}
             <a
                 href={siteConfig.links.github}
                 target="_blank"
@@ -27,7 +28,7 @@
             >
                 GitHub
             </a>
-            .
+            . -->
         </p>
     </div>
 </footer>
